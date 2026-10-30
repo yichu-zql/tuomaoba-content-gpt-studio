@@ -4,7 +4,7 @@ compatibility_date = "2026-10-01"
 
 # 部署前改成实际 Pages 来源（只含协议和域名，不含仓库路径）
 [vars]
-ALLOWED_ORIGIN = "https://YOUR-USERNAME.github.io"
+ALLOWED_ORIGIN = "https://yichu-zql.github.io"
 # OPENAI_MODEL 选择账号实际可用的、支持 Responses JSON 模式的模型后填写
 # OPENAI_MODEL = "..."
 # 密钥通过 wrangler secret put OPENAI_API_KEY / ACCESS_TOKEN 设置，禁止写入此文件
